@@ -1,0 +1,6 @@
+flask
+requests
+gunicorn
+supabase
+httpx
+google-generativeai
